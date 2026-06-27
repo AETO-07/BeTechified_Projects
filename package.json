@@ -1,0 +1,30 @@
+{
+  "name": "terminal_works",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "WEEK2_PROJECT.js",
+  "scripts": {
+    "start": "node WEEK2_PROJECT.js",
+    "dev": "nodemon WEEK2_PROJECT.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AETO-07/BeTechified_Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AETO-07/BeTechified_Projects/issues"
+  },
+  "homepage": "https://github.com/AETO-07/BeTechified_Projects#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
