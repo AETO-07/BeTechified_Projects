@@ -7,6 +7,8 @@
   "scripts": {
     "start": "node WEEK2_PROJECT.js",
     "dev": "nodemon WEEK2_PROJECT.js",
+    "start-server": "node \"App file/server.js\"",
+    "dev-server": "nodemon \"App file/server.js\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
